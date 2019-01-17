@@ -1,0 +1,51 @@
+{
+  "fitbit": {
+    "appUUID": "60a34544-bea3-43ff-b170-b3af54dffc23",
+    "appType": "clockface",
+    "appDisplayName": "Luxury Clean",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Luxury Clean"
+      },
+      "de": {
+        "name": "Luxury Clean"
+      },
+      "es": {
+        "name": "Luxury Clean"
+      },
+      "fr": {
+        "name": "Luxury Clean"
+      },
+      "it": {
+        "name": "Luxury Clean"
+      },
+      "ja": {
+        "name": "Luxury Clean"
+      },
+      "ko": {
+        "name": "Luxury Clean"
+      },
+      "nl": {
+        "name": "Luxury Clean"
+      },
+      "sv": {
+        "name": "Luxury Clean"
+      },
+      "zh-cn": {
+        "name": "Luxury Clean"
+      },
+      "zh-tw": {
+        "name": "Luxury Clean"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
